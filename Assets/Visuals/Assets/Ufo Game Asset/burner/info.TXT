@@ -1,0 +1,1 @@
+Each sprite is contained 256px x 581 px no separation between sequence

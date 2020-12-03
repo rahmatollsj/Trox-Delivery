@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a375524323c0486d99338d5fa1f71e7a, type: 3}
+  m_Name: AchievementBannerData
+  m_EditorClassIdentifier: 
+  title:
+  - Do a barrel roll
+  - That's high !
+  - Slight Problem
+  - Big Fuel Tank
+  - Heavy Foot
+  - Go Faster Karen !
+  - Good Luck !
+  - ' In The Sand Scheme Of Things'
+  - Keeping steady
+  - Zero G
+  - Sherpa
+  - On Fire !
+  - Time for Road Rage
+  - Bad driver
+  description:
+  - Complete a full flip with yout truck
+  - Perform a jump of more than 10 meters
+  - Collision with a volcanic rock in the volcano level
+  - Collect your first gasoline bonus
+  - Losing the game by overheating the engine in a hot area
+  - Losing the game by freezing the engine inside a cold area
+  - Complete the tutorial level for the first time
+  - Complete the desert level for the first time
+  - Complete the jungle level for the first time
+  - Complete the moon level for the first time
+  - Complete the arctic level for the first time
+  - Complete the volcano level for the first time
+  - Lose the game three times
+  - Overturn the vehicle upside down
